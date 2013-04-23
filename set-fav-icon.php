@@ -3,7 +3,7 @@
 /*
 Plugin Name: Easy Set Favicon
 Plugin URI: https://github.com/eftakhairul/Set-Fav-Icon/blob/master/README.md
-Description: Set the fav-icon in your wordpress just by putting a link.
+Description: Set the fav-icon in your blog or website just by putting a link.
 Version: 1.0
 Author: Eftakhairul Islam & Sirajus Salayhin 
 Author URI: https://github.com/eftakhairul/Set-Fav-Icon/blob/master/README.md
