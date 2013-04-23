@@ -38,9 +38,9 @@ Yes, you can. You can put any valid link.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. Click the 'Set Fav Icon Url' button at admin menu.
+   'assets/admin_menu_button.png'
+
+2. Take any link from any website or link from media and put that as Fav Icon Url. Click the "Save Changes" button for update the setting
+    'assets/save_image_linkl.png'
 

@@ -22,7 +22,7 @@ add_action('wp_head', 'es_enqueue_favicon_head');
 function es_set_favicon_create_menu()
 {
     $main_option_page = __FILE__;
-    add_menu_page('Set Fav icon', 'Set Fav Icon Url', 'administrator', 'ad-fav-icon', 'es_save_favicon_url',plugins_url('/set-fav-icon/images/icon_pref_settings.gif','set-fav-icon'));
+    add_menu_page('Set Fav Icon', 'Set Fav Icon Url', 'administrator', 'ad-fav-icon', 'es_save_favicon_url',plugins_url('/set-fav-icon/images/icon_pref_settings.gif','set-fav-icon'));
 }
 
 function es_enqueue_favicon_head()
