@@ -37,8 +37,8 @@ Yes, you can. You can put any valid link.
 == Screenshots ==
 
 1. Click the 'Set Fav Icon Url' button at admin menu.
-   `admin_menu_button.png`
+   `/trunk/admin_menu_button.png`
 
 2. Take any link from any website or link from media and put that as Fav Icon Url. Click the "Save Changes" button for updating the setting
-    `save_image_linkl.png`
+    `/trunk/save_image_linkl.png`
 
