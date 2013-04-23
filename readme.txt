@@ -4,7 +4,7 @@ Donate link:
 Tags: fav-icon, icon, easy
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 4.3
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,8 +37,8 @@ Yes, you can. You can put any valid link.
 == Screenshots ==
 
 1. Click the 'Set Fav Icon Url' button at admin menu.
-   assets/admin_menu_button.png
+   `assets/admin_menu_button.png`
 
 2. Take any link from any website or link from media and put that as Fav Icon Url. Click the "Save Changes" button for updating the setting
-    assets/save_image_linkl.png
+    `assets/save_image_linkl.png`
 
