@@ -22,6 +22,9 @@ Set the fav-icon in your blog or website just by putting a link.
 = Author =
 Brought to you by [Md. Eftakhairul Islam](http://eftakhairul.com) & [Sirajus Salayhin](https://salayhin.wordpress.com)
 
+= Contribute =
+This may have bugs and lack of many features. If you want to contribute on this project, you are more than welcome. Please fork the repository from [Github](https://github.com/eftakhairul/Set-Fav-Icon).
+
 == Installation ==
 
 Just flow the following easy steps..
