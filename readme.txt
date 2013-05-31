@@ -52,6 +52,9 @@ A. It supports ico, png, jpg, jpeg or other image types.
 
 == Changelog ==
 
+= 1.1 =
+Admin template favicon's support added
+
 = 1.0 =
 Initial version released
 

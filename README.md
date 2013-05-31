@@ -1,6 +1,6 @@
 Set Fav Icon
 
-Versions: 1.0
+Versions: 1.1
 
 Set the fav-icon in your blog or website just by putting a link.
 =================================================================================
